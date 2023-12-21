@@ -31,7 +31,7 @@ Feel free to use the dataset provided in this repository for your own research o
 
 To cite this dataset:
 
-**Dehestani, Daryoosh. (2022). Democratic Sanctions and the Improvement of Human Rights.** Retrieved from [URL to this repository]
+**Dehestani, Daryoosh. (2022). Democratic Sanctions and the Improvement of Human Rights.** Retrieved from [Dataset on GitHub](https://github.com/dda-oo/sanction/blob/main/democratic%20sanctions-human%20rights-Dehestani.csv)
 
 ## Keywords
 
